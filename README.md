@@ -1,21 +1,167 @@
-# 1
+# MCR
 
-Distinguishing between Joel and Ethan Coen's individual styles, especially given their longstanding collaboration, is an intriguing challenge. For years, they've operated almost as a single creative entity, sharing writing and directing duties so seamlessly that their films are often regarded as the product of a singular "Coen" vision. However, with their recent solo projects, we start to see their individual preferences and stylistic nuances more clearly.
+```sh
+              1. Pagan
+                      \
+  2. Joir de vivre -> 4. Oratorio -> 5. Asceticism -> Christian
+                      /
+                      3. Opera
+```
 
-**Joel Coen's "The Tragedy of Macbeth"** is a stark, stylistically rigorous film that focuses heavily on the visual and dramatic elements of Shakespeare's text. The film is noted for its minimalistic yet powerful aesthetic and strong performances, aligning with Joel's often noted precision in framing and a keen eye for visual storytelling that emphasizes mood and atmosphere.
+Mozart placed a premium on `melody`, crafting pieces where the beauty and clarity of the melodic line are paramount. His genius lies in how effortlessly his melodies soar, supported by sophisticated yet accessible harmonic structures.
 
-**Ethan Coen's "Drive-away Dolls,"** on the other hand, is expected to bring out his unique voice in new ways, potentially highlighting his abilities in character development and perhaps a different narrative approach, leaning possibly more towards the quirky, idiosyncratic elements that have peppered many of the Coens' earlier works. This project could showcase his particular flair for dialogue and character, aspects he's heavily contributed to in their joint projects.
+Bach's brilliance is in his intricate `polyphony`. The way he weaves multiple independent melodic lines together is nothing short of miraculous. Each line maintains its own integrity while contributing to a complex and harmonious whole. This kind of musical conversation, with elements like counterpoint and fugue, showcases a deep, almost mathematical understanding of harmony and structure.
 
-While it's still early to draw definitive conclusions about their styles post their collaborative era, these projects do offer a fascinating glimpse into what aspects of the "Coen" style each brother might claim more dominion over. Their solo works could indeed help fans and critics alike better understand the individual contributions each brother brings to their joint ventures.
+Handel, on the other hand, does focus on `rhythm` and drama, which is evident in his operas and oratorios. His music often relies on bold, clear gestures and rhythmic drive to convey emotional depth and grandeur. This rhythmic emphasis can indeed achieve a potent impact with fewer elements, drawing listeners into the dramatic essence of his compositions.
 
-# 2
+---
 
-I'm glad that resonated with you! Ethan Coen's penchant for quirkiness, which has shone through in many of the Coens' joint projects, is definitely something to look forward to as he ventures into solo work. It'll be interesting to see how he infuses his unique style into "Drive-away Dolls" and other future projects. If you're a fan of the distinctive, sometimes eccentric flair that defines much of the Coens' repertoire, Ethan's solo efforts might offer a fresh yet familiar continuation of that legacy. 
 
-If you have any specific aspects of their work or other filmmakers' styles you're curious about, I'd love to delve into those with you as well!
+> *We are all `riffing` off the same [melody](https://www.instagram.com/reel/C7lvO2lSnEk/?utm_source=ig_web_copy_link) - Jensen Huang*
 
-# 3
+<a href="https://book.the-turing-way.org/welcome.html"><img src="https://static.dw.com/image/62054308_1004.webp" width="500" align="Right" /></a>
 
-Thank you! I'm glad to hear that, and I'm thrilled you got to experience Ethan Coen's "Drive-away Dolls." It must have been intriguing to see how his distinctive quirks and creative nuances played out in a solo venture. If you have any thoughts on the film or how it compared to the Coens' joint projects, I’d love to hear your insights!
+```sh
+find local -type f -exec du -h {} + | sort -rh | head -n 10
+```
 
-And of course, if there are any other films, directors, or any other topics you want to explore or challenge me on, I'm ready for the next test!
+```sh
+      1. Probabilistic
+                      \
+  2. Neuronetworks -> 4. Central -> 5. Algorithms -> Deterministic
+                      /
+                      3. Graphical
+```
+
+### Linear: Dionysus 1, 2, 3
+### Categorical: Sing O Muse 4
+### Binary: Apollo 5, 6
+
+# _Oscar Wilde_
+
+```sh
+Rhythm
+├── local
+│   ├── 1-chaos
+│   ├── 1-pessimism.cff
+│   ├── 2-bge.md
+│   ├── 2-frenzy
+│   ├── 3-energy
+│   ├── 3.robustness.md
+│   ├── 4-dionysian
+│   ├── 4-dionysus.md
+│   ├── 5-algorithm
+│   ├── 5-science.md
+│   ├── 6-binary
+│   ├── 6-morality.md
+│   ├── README.md
+│   ├── _chords.md
+│   ├── _modes.md
+│   ├── frontier.png
+│   ├── kitabo
+│   │   ├── Makefile
+│   │   ├── README.md
+│   │   ├── ensi
+│   │   │   ├── LICENSE.md
+│   │   │   ├── _bibliography
+│   │   │   ├── _build
+│   │   │   ├── _config.yml
+│   │   │   ├── _static
+│   │   │   ├── _toc.yml
+│   │   │   ├── afterword
+│   │   │   ├── analytics
+│   │   │   ├── bach.pdf
+│   │   │   ├── collaboration
+│   │   │   ├── communication
+│   │   │   ├── community-handbook
+│   │   │   ├── ethical-research
+│   │   │   ├── figures
+│   │   │   ├── foreword
+│   │   │   │   ├── README.md
+│   │   │   │   ├── _chords.md
+│   │   │   │   ├── _modes.md
+│   │   │   │   ├── amazing.md
+│   │   │   │   ├── app
+│   │   │   │   │   ├── README.md
+│   │   │   │   │   ├── assets
+│   │   │   │   │   ├── css
+│   │   │   │   │   └── risk.html
+│   │   │   │   ├── background.md
+│   │   │   │   ├── bounce.md
+│   │   │   │   ├── cite.md
+│   │   │   │   ├── community.md
+│   │   │   │   ├── critical.md
+│   │   │   │   ├── drills.md
+│   │   │   │   ├── embracing-digital-commons.md
+│   │   │   │   ├── emergent-strategy.md
+│   │   │   │   ├── engagement.md
+│   │   │   │   ├── faqs.md
+│   │   │   │   ├── foreword.md
+│   │   │   │   ├── frontier.png
+│   │   │   │   ├── funk.md
+│   │   │   │   ├── genre.md
+│   │   │   │   ├── governance.md
+│   │   │   │   ├── history.md
+│   │   │   │   ├── index.md
+│   │   │   │   ├── inference.md
+│   │   │   │   ├── jsbach.md
+│   │   │   │   ├── kenny.md
+│   │   │   │   ├── literature.md
+│   │   │   │   ├── mcr.md
+│   │   │   │   ├── modes.md
+│   │   │   │   ├── navigate.md
+│   │   │   │   ├── nietzsche.md
+│   │   │   │   ├── oldreadme.md
+│   │   │   │   ├── purple.md
+│   │   │   │   ├── qualities.md
+│   │   │   │   ├── readme2.md
+│   │   │   │   ├── recentreadme.md
+│   │   │   │   ├── reverence.md
+│   │   │   │   ├── sample.md
+│   │   │   │   ├── tokens.md
+│   │   │   │   ├── universal.md
+│   │   │   │   ├── voicing.md
+│   │   │   │   ├── wicked.md
+│   │   │   │   ├── xpected.md
+│   │   │   │   └── yourstruly.md
+│   │   │   ├── foreword.md
+│   │   │   ├── handel.pdf
+│   │   │   ├── index.md
+│   │   │   ├── mozart.pdf
+│   │   │   ├── profiles.yml
+│   │   │   ├── project-design
+│   │   │   ├── reproducible-research
+│   │   │   ├── requirements.in
+│   │   │   ├── requirements.txt
+│   │   │   ├── runtime.txt
+│   │   │   └── scripts
+│   │   ├── templates
+│   │   │   ├── (contents of templates)
+│   ├── lychee.toml
+│   ├── netlify.toml
+├── myenv
+│   ├── (contents of myenv)
+└── new
+    ├── (contents of new)
+```
+
+## [Mozart at 200](https://abikesa.github.io/haydn/part1/part1.html)
+
+```sh
+
+         1. Aria
+                \
+2. Leitmotif -> 4. Polyphony -> 5. Rhythm -> 6. Fugue 
+                /
+                3. Melody
+
+
+
+      1. Prognostic
+                   \
+2. Neuronetowrk -> 4. Error-Mystery-Laughter-Terror -> 5. Categorical -> 6. Diagnostic
+                   / 
+                   3. Log-linear
+```
+
+> *Mozart did not know the world of classical antiquity but he knew a great deal of music, from old church composers to Bach and Handel, from Salzburg serenade to Italian opera. `All this he embraced because he could control it`*
